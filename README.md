@@ -1,1 +1,1 @@
-# deok.github.io
+# strdeok.github.io
