@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/foodflix/static/css/main.2d7eb229.css",
-    "main.js": "/foodflix/static/js/main.3926f67d.js",
+    "main.js": "/foodflix/static/js/main.fb257c4b.js",
     "static/js/453.cda47f87.chunk.js": "/foodflix/static/js/453.cda47f87.chunk.js",
     "service-worker.js": "/foodflix/service-worker.js",
     "index.html": "/foodflix/index.html",
     "main.2d7eb229.css.map": "/foodflix/static/css/main.2d7eb229.css.map",
-    "main.3926f67d.js.map": "/foodflix/static/js/main.3926f67d.js.map",
+    "main.fb257c4b.js.map": "/foodflix/static/js/main.fb257c4b.js.map",
     "453.cda47f87.chunk.js.map": "/foodflix/static/js/453.cda47f87.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d7eb229.css",
-    "static/js/main.3926f67d.js"
+    "static/js/main.fb257c4b.js"
   ]
 }
